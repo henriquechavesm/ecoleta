@@ -1,2 +1,2 @@
 # ecoleta
- Ecoleta app developed in NLW
+ Ecoleta app developed on NLW
